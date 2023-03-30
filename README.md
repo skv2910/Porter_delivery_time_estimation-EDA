@@ -6,4 +6,4 @@ Porter works with a wide range of restaurants for delivering their items directl
 
 Porter has a number of delivery partners available for delivering the food, from various restaurants and wants to get an estimated delivery time that it can provide the customers on the basis of what they are ordering, from where and also the delivery partners.
 
-In this report i did an etensive data analysis for the factor affecting the delivery time for a particular order placed.And used XGB to make aprediction.
+In this report i did an etensive data analysis for the factor affecting the delivery time for a particular order placed.And used XGB Regressor to make aprediction.
